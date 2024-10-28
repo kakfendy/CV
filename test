@@ -1,0 +1,2 @@
+which python
+pip show opencv-contrib-python
